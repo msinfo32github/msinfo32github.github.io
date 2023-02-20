@@ -36,7 +36,7 @@ How you backup your data is up to personal preference but these guidelines are u
 # My Local Backup Plan
 
 ## Software:
-- [FreeFileSync](https://freefilesync.org/) to manually backup from [TrueNAS](truenas.com) NAS to USB HDD Manually
+- [FreeFileSync](https://freefilesync.org/) to manually backup from [TrueNAS](https://truenas.com) NAS to USB HDD Manually
 - TrueNAS Replication to Backup NAS (does not protect from ransomware)
 
 ## Hardware:
