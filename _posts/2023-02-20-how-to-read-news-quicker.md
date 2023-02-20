@@ -1,6 +1,6 @@
 ---
 title: How to read news quicker (using RSS!)
-date: 2023-02-20 19:30:00 +0100
+date: 2023-02-20 20:30:00 +0100
 categories: [rss,news]
 tags: [rss,news,homelab]
 ---
