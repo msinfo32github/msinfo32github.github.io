@@ -1,5 +1,5 @@
 ---
-title: How to add comments to a jekyll site (with Giscus or utterances!)
+title: How to add comments to a Jekyll site (with Giscus or utterances!)
 date: 2023-02-23 17:30:00 +0100
 categories: [website, jekyll,giscus]
 tags: [comments,jekyll,website]
