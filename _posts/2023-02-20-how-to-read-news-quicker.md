@@ -132,3 +132,5 @@ I personally use Readrops which has a great UI, with dark theme. It can easily c
 ## Conclusion
 
 You are now complete, with a RSS Feed and are able to view it from Desktop, and Mobile. This is a much better way to consume online content without distractions and the slowing down from modern websites.
+
+If there are any further tweaks or any issues, leave them under my GitHub issues [here](https://github.com/msinfo32github/msinfo32github.github.io/issues/) or in the comment section below!

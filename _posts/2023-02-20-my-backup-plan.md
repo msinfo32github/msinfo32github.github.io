@@ -74,3 +74,5 @@ Examples of some other services you can use for offsite backups are:
 - [Backblaze Personal](https://www.backblaze.com/backup-pricing.html) ("Unlimited", $7/month, $70/year, $130/2 years)
 - [Backblaze B2](https://www.backblaze.com/b2/cloud-storage-pricing.html) ($0.005/GB/Month for storage, $0.01/GB for Download)
 - [Amazon S3 Glacier](https://aws.amazon.com/s3/storage-classes/glacier/) (Pricing is more complicated, see link [here](https://aws.amazon.com/s3/pricing/))
+
+If there are any further tweaks or any issues, leave them under my GitHub issues [here](https://github.com/msinfo32github/msinfo32github.github.io/issues/) or in the comment section below!

@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Windows Install
-date: 2023-02-22 18:00:00 +0100
+date: 2023-02-22 20:00:00 +0100
 categories: [windows, debloat]
 tags: [windows, windows 10, windows 11, debloat]
 ---
@@ -273,4 +273,4 @@ You should now have a debloated Windows install. You can also install O&O shut u
 
 It is recommended to create a system snapshot at this point to revert to, or before any updates as Microsoft may attempt to un-tweak your system, forcing you to follow through this guide again.
 
-If there are any further tweaks or any issues, leave them under my GitHub issues [here](https://github.com/msinfo32github/msinfo32github.github.io/issues/)
+If there are any further tweaks or any issues, leave them under my GitHub issues [here](https://github.com/msinfo32github/msinfo32github.github.io/issues/) or in the comment section below!

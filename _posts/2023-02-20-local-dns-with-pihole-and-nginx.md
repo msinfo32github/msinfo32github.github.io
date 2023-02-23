@@ -85,3 +85,5 @@ If this does not work, try troubleshooting by:
 - Check if your device overrides custom DNS servers (typically done within smart TVs)
 
 With a Pi-Hole server setup, you can also now use it for ad-blocking, using Adlists from [Firebog](https://firebog.net/)!
+
+If there are any further tweaks or any issues, leave them under my GitHub issues [here](https://github.com/msinfo32github/msinfo32github.github.io/issues/) or in the comment section below!
